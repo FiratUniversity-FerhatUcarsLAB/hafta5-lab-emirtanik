@@ -10,7 +10,7 @@
 
 import java.util.Scanner;
 
-public class lab_odev {
+public class GeometrikHesap {
 	// KARE
 	// KARE İÇİN FONKSİYONLARI TANIMLADIM
     //METOD 1
